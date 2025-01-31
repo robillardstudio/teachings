@@ -1,4 +1,4 @@
-% The Story of Color
+% A Story of Color
 % Gaëtan Robillard, 2024.
 
 # Summary
