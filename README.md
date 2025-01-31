@@ -2,4 +2,4 @@
 
 This repositoty contains various teaching folders.
 
-[Story of Color. Theory](/story-of-color)
+[A story of Color. Theory](/story-of-color)
